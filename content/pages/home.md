@@ -42,6 +42,12 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
+    text: >
+      With over a decade of experience in implementation and supplier
+      engagement, I have a proven track record of delivering results for global
+      enterprises. My expertise lies in managing complex projects, optimizing
+      processes, and driving customer success. Welcome to my professional
+      portfolio, where you can learn more about my work and achievements.
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
