@@ -24,9 +24,9 @@ sections:
   - type: HeroSection
     title: Experienced Implementation Director & Supplier Engagement Expert
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Welcome to my professional portfolio. I specialize in implementation and
+      supplier engagement, with a track record of delivering results for global
+      enterprises.
     actions: []
     colors: colors-f
     backgroundSize: full
