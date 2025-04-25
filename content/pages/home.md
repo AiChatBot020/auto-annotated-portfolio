@@ -28,7 +28,7 @@ sections:
       supplier engagement, with a track record of delivering results for global
       enterprises.
     actions: []
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
